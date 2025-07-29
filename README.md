@@ -34,7 +34,7 @@ AuraColls is a dynamic, collectible-focused Discord bot made with Python. It all
 ### 💞 Send Collectibles
 | Command | Description |
 |---------|-------------|
-| `aheart`, `ateddy`, etc. | Send a collectible to a user. Limited by cooldowns. |
+| `heart`, `teddy`, etc. | Send a collectible to a user. Limited by cooldowns. |
 
 ### 🏆 Leaderboard
 | Command | Description |
