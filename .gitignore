@@ -1,11 +1,1 @@
-# Python
-__pycache__/
-*.pyc
-
-# Secrets
-.env
-token.txt
-config.json  # if it contains your bot token
-
-# System
-.DS_Store
+env
