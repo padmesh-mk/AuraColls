@@ -1,0 +1,56 @@
+{
+  "crown": {
+    "emoji": "<a:ac_crown:1399456749873791006>",
+    "name": "crowns",
+    "owner_id": 941902212303556618,
+    "cooldown": 0
+  },
+  "gamer": {
+    "emoji": "<a:GamerRage:1171754611409952839>",
+    "name": "gamer rage",
+    "owner_id": 941902212303556618,
+    "cooldown": 0
+  },
+  "skill": {
+    "emoji": "<:bmtg_skillissue:1229023323321532437>",
+    "name": "skill issue",
+    "owner_id": 941902212303556618,
+    "cooldown": 0
+  }, 
+  "chocolate": {
+      "emoji": "<:Chocolate:1398732593415061594>", 
+      "name": "chocolates", 
+      "owner_id": 859977115621261352, 
+      "cooldown": 0
+  }, 
+  "daisy": {
+      "emoji": "🌼", 
+      "name": "daisies", 
+      "owner_id": 1224152880152313876,
+      "cooldown": 0
+  }, 
+  "duck": {
+      "emoji": "🦆", 
+      "name": "ducks", 
+      "owner_id": 1023379979905540116,
+      "cooldown": 0
+  }, 
+  "king": {
+      "emoji": "<a:ac_trident:1399063760101965945>", 
+      "name": "king's trident", 
+      "owner_id": 690935592816476181,
+      "cooldown": 0
+  }, 
+  "lion": {
+      "emoji": "<a:ac_lion:1399065929085747281>", 
+      "name": "lions", 
+      "owner_id": 1189963155577765930,
+      "cooldown": 0
+  }, 
+  "fight": {
+      "emoji": "<a:ac_fight:1399067189692334170>", 
+      "name": "fights", 
+      "owner_id": 1241313695527866389,
+      "cooldown": 0
+  }
+}
