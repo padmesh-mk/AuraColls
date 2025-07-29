@@ -1,4 +1,4 @@
-# 🎁 AuraColls - Discord Collectibles & Trading Bot
+# 🎁 AuraColls - Discord Collectibles Bot
 
 AuraColls is a dynamic, collectible-focused Discord bot made with Python. It allows users to earn, trade, and grow their collection of virtual items using a duplication-based economy — with daily rewards, user stats, leaderboards, and more!
 
